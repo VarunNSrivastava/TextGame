@@ -32,7 +32,7 @@ public class Simulator {
         initWumpi();
     }
 
-    private void initWumpi() { addWumpus("Toilet","Nathaniel"); }
+    private void initWumpi() { addWumpus("toilet","Nathaniel"); }
 
     private void initPopstars() {
         addPopstar("shower","Mark Sandal");
